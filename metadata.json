@@ -1,0 +1,8 @@
+{
+  "name": "BOBO — The Bear Who Became the Bull",
+  "description": "BOBO is the bear who refused to sell. Walk the dark cyberpunk crypto city, recruit Pepe & Doge, and get ready for the BOBO Robinhood launch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
